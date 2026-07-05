@@ -4,6 +4,9 @@ Persona AI is a MERN stack chatbot application that lets users interact with AI 
 
 ---
 
+## Live Demo
+ https://persona-ai-client.vercel.app/
+
 ## Features
 
 - User Authentication (Login & Register)
