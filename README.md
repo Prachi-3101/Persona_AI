@@ -54,7 +54,7 @@ Persona_AI/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Persona_AI.git
+git clone https://github.com/Prachi-3101/Persona_AI.git
 cd Persona_AI
 ```
 
